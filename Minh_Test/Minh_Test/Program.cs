@@ -10,7 +10,7 @@ namespace Minh_Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Test branch");
         }
     }
 }
