@@ -9,4 +9,3 @@ Mỗi người tạo một nhánh tên mình, viết hàm chứa tên mình vào
 */
 
 Console.WriteLine("This is main branch");
-Console.WriteLine("Nguyễn Thanh Tùng in Tung's branch");
