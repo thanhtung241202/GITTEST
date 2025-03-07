@@ -1,0 +1,15 @@
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/bin/Debug/net8.0/NAMETEST
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/bin/Debug/net8.0/NAMETEST.deps.json
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/bin/Debug/net8.0/NAMETEST.runtimeconfig.json
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/bin/Debug/net8.0/NAMETEST.dll
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/bin/Debug/net8.0/NAMETEST.pdb
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.AssemblyInfoInputs.cache
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.AssemblyInfo.cs
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.csproj.CoreCompileInputs.cache
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.sourcelink.json
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.dll
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/refint/NAMETEST.dll
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.pdb
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/NAMETEST.genruntimeconfig.cache
+/Users/nguyentung/Desktop/Dif_C_Practice/NAMETEST/NAMETEST/obj/Debug/net8.0/ref/NAMETEST.dll
